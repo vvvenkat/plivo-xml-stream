@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <Response>
         <Stream streamTimeout="86400" keepCallAlive="true" bidirectional="true" contentType="audio/x-mulaw;rate=8000" audioTrack="inbound" >
-            ws://{request.host}/media-stream
+            ws://039b-2405-201-c018-2948-e468-ea68-a873-9a0e.ngrok-free.app/stream-audio
         </Stream>
     </Response>
